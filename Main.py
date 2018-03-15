@@ -2,5 +2,5 @@
 
 from Operations import Operations
 
-fileName = "packet_udp.bin"
+fileName = "packet_tcp.bin"
 operations = Operations(fileName)
